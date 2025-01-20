@@ -7,7 +7,7 @@
 
 ## Files:
 - `MaartenStork_15761770_PaulJungnick…5716554_LucasKeijzer_14041073.ipynb` - Notebook containing the results
-- `CircleParticleSim.py` - Contains the code for running a single simulated annealing process
+- `/model` - Contains the code for running a single simulated annealing process
 - `/plots` - Contains all the plots generated 
 - `/data` - Contains the data from previous runs 
 
