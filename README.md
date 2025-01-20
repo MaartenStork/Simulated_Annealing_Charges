@@ -1,9 +1,11 @@
 # Stochastic_Simulation_Assignment_3
 ## Finding The Minimal Energy Configuration Of Charge Particle Within A Circle
+The project uses simulated annealing to find the minimal energy configurations of charged particles within a circular boundary. It tests various cooling schedules and neighboring strategies, achieving optimal configurations for systems up to 50 particles while improving on prior results.
+
 ## Authors:
-- Maarten Stork - 15761770
-- Paul Jungnickel - 15716554
-- Lucas Keijzer - 14041073
+- Maarten Stork
+- Paul Jungnickel
+- Lucas Keijzer
 
 ## Files:
 - `MaartenStork_15761770_PaulJungnick…5716554_LucasKeijzer_14041073.ipynb` - Notebook containing the results
@@ -18,6 +20,3 @@
 - **pandas** (`pd`): For data manipulation and analysis.
 - **matplotlib** (`plt`): Used for plotting graphs and visualizations.
 - **scipy.stats**: Used for statistical analysis, such as t-tests.
-
-
-LINK : https://github.com/PaulJungnickel/Stochastic_Simulation_Assignment_3
