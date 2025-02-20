@@ -4,9 +4,9 @@ The project uses simulated annealing to find the minimal energy configurations o
 
 
 <p align="center">
-  <img src="plots/BESTBIG.png" alt="Alt text" width="600">
+  <img src="plots/BESTBIG.png" alt="Alt text" width="500">
   <br>
-  <em>Figure 1: Visual representations of the three best and worst performing simulations with \( n = 50 \).</em>
+  <em>Figure 1: Visual representations of the three best and worst performing simulations with n = 50.</em>
 </p>
 
 ## Authors:
