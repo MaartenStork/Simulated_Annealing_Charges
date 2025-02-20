@@ -2,6 +2,8 @@
 ## Finding The Minimal Energy Configuration Of Charge Particle Within A Circle
 The project uses simulated annealing to find the minimal energy configurations of charged particles within a circular boundary. It tests various cooling schedules and neighboring strategies, achieving optimal configurations for systems up to 50 particles while improving on prior results.
 
+![Alt text](plots/BESTBIG.png)
+
 ## Authors:
 - Maarten Stork
 - Paul Jungnickel
