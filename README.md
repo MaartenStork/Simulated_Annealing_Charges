@@ -3,7 +3,7 @@
 The project uses simulated annealing to find the minimal energy configurations of charged particles within a circular boundary. It tests various cooling schedules and neighboring strategies, achieving optimal configurations for systems up to 50 particles while improving on prior results.
 
 <p align="center">
-  <img src="plots/BESTBIG.png" alt="Alt text" width="400">
+  <img src="plots/BESTBIG.png" alt="Alt text" width="600">
   <br>
   <em>Figure 1: This is my subtext caption</em>
 </p>
