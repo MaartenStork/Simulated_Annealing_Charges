@@ -1,11 +1,12 @@
 # Stochastic_Simulation_Assignment_3
 ## Finding The Minimal Energy Configuration Of Charge Particle Within A Circle
-The project uses simulated annealing to find the minimal energy configurations of charged particles within a circular boundary. It tests various cooling schedules and neighboring strategies, achieving optimal configurations for systems up to 50 particles while improving on prior results.
+The project uses simulated annealing to find the minimal energy configurations of charged particles within a circular boundary. It tests various cooling schedules and neighboring strategies, achieving optimal configurations for systems up to 50 particles while improving on prior results. 
+
 
 <p align="center">
   <img src="plots/BESTBIG.png" alt="Alt text" width="600">
   <br>
-  <em>Figure 1: This is my subtext caption</em>
+  <em>Figure 1: Visual representations of the three best and worst performing simulations with \( n = 50 \).</em>
 </p>
 
 ## Authors:
